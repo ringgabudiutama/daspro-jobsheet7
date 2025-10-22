@@ -4,7 +4,7 @@ public class SiakadForNoAbsen {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        double nilai, tertinggi = 0, terendah = 100;
+        double nilai, tertinggi = 0, terendah = 60;
 
         // Menambahkan Perulangan untuk 10 mahasiswa
         for (int i = 1; i <= 10; i++) {
